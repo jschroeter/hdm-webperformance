@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Dokdo');
+
+body {
+    font-family: Dokdo, sans-serif;
+    font-size: 22px;
+}
+
+.container {
+    display: flex;
+}
+
+.box {
+    max-width: 500px;
+    margin-right: 40px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.images {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 15px;
+}
+
+.images img {
+    width: 100%;
+    height: auto;
+}
+
+.blog {
+    background: linear-gradient(135deg, #eceddc 25%, transparent 25%),
+        linear-gradient(225deg, #eceddc 25%, transparent 25%),
+        linear-gradient(315deg, #eceddc 25%, transparent 25%),
+        linear-gradient(45deg, #eceddc 25%, transparent 25%);
+    background-size: 20px 20px;
+    background-color: #782345;
+}
