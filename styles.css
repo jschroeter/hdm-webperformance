@@ -3,6 +3,8 @@
 body {
     font-family: Dokdo, sans-serif;
     font-size: 22px;
+    display: flex;
+    flex-direction: column-reverse;
 }
 
 .container {
