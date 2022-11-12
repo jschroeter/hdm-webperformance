@@ -35,6 +35,7 @@ h1 {
     aspect-ratio: 4 / 3;
     width: 100%;
     height: auto;
+    background-color: lightgray;
 }
 
 .blog {
