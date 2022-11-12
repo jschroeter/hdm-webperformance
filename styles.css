@@ -15,7 +15,6 @@ body {
 }
 
 .box img {
-    width: 100%;
     aspect-ratio: 500 / 300;
 }
 
