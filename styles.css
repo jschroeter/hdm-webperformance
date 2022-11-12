@@ -18,6 +18,7 @@ body {
     aspect-ratio: 500 / 300;
     width: 400px;
     height: auto;
+    background-color: lightgray;
 }
 
 h1 {
