@@ -15,9 +15,9 @@ body {
 }
 
 .box img {
+    aspect-ratio: 500 / 300;
     width: 100%;
     height: auto;
-    aspect-ratio: 500 / 300;
 }
 
 h1 {
@@ -31,9 +31,9 @@ h1 {
 }
 
 .images img {
+    aspect-ratio: 4 / 3;
     width: 100%;
     height: auto;
-    aspect-ratio: 4 / 3;
 }
 
 .blog {
