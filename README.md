@@ -16,3 +16,5 @@ Whenever you commit & push something to the main branch, the page will be publis
 - open the page with a slow internet connection (e.g. network throtteling of browser dev tools) and observe how the page loads and renders
 - run and check web performance analysis with tools like https://web.dev/measure/, https://WebPageTest.org and [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 - implement improvements
+
+lol
