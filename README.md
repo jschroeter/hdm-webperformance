@@ -1,6 +1,6 @@
 # hdm-webperformance exercise
 
-This repository contains a static web page with some typical performance issues. A exercise for students of my lecture [Rich Media Systems at Stuttgart Media University](https://www.hdm-stuttgart.de/studierende/stundenplan/vorlesungsverzeichnis/vorlesung_detail?vorlid=5213920) is to find these issues and improve the loading experience for the users.
+This repository contains a static web page with some typical performance issues. A exercise for students of my lecture [Rich Media Systems at Stuttgart Media University](https://hdm-stuttgart.de/vorlesung_detail?ansicht=1&vorlid=5213920&sgbvsid=5168517) is to find these issues and improve the loading experience for the users.
 
 ## Setup
 1. open https://vscode.dev/github/jschroeter/hdm-webperformance; you should see Visual Studio Code with all the files
